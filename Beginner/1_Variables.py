@@ -2,6 +2,7 @@
 
 pi = 22/7
 print(type(pi)) # Output: <class 'float'>
+print("-----------------------------------------------------------------------------------------")
 
 
 # 2. Create a variable called for and assign it a value 4. See what happens and find out the reason behind the behavior that you see.
